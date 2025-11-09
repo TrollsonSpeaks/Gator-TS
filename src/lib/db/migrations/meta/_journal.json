@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1762587919965,
+      "tag": "0000_green_black_crow",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1762659808301,
+      "tag": "0001_large_marvel_zombies",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1762662959700,
+      "tag": "0002_simple_justin_hammer",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1762666964485,
+      "tag": "0003_daily_stark_industries",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1762668363946,
+      "tag": "0004_happy_sumo",
+      "breakpoints": true
+    }
+  ]
+}
